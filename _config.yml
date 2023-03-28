@@ -11,4 +11,4 @@ description: >
 
 # theme: minima
 # Build settings
-remote_theme: jekyll/academic
+remote_theme: jekyll/minima
