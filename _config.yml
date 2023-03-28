@@ -13,6 +13,6 @@ description: >
   and continuous integration and deployment.
 # Build settings
 
-theme: minima
+# theme: minima
 # Build settings
 remote_theme: jekyll/minima
