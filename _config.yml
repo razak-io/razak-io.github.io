@@ -12,3 +12,8 @@ description: >
 # theme: minima
 # Build settings
 remote_theme: jekyll/minima
+
+navigation:
+  - {title: 'About'}
+  - {title: 'Education'}
+  - {title: 'Projects'}
